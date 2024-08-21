@@ -32,9 +32,15 @@
 ## 💻 Languages and tools:
 
 ![alt text](https://www.python.org/static/favicon.ico)
-![alt text](https://git-scm.com/favicon.ico)
 ![alt text](https://raw.githubusercontent.com/rdecarlo73/icons/master/sql.ico)
-![alt text](https://www.tableau.com/themes/custom/tableau_www/favicon.ico)
+<img alt="NumPy" height="53" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/250px-Tableau_logo.svg.png?20200509180027" width="250" />
+<img alt="NumPy" height="68" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" width="150" />
+<img alt="ClickHouse" height="49" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png?20161110211329" width="51" />
+<img alt="Redash" height="30" src="https://redash.io/assets/images/logo.png" width="57" />
+<img alt="PowerPoint" height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1ciMUeGkSXoobWmY8cMoAeEPFef_u-f8pg&s" width="51" />
+<img alt="Excel" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="51" />
+<img alt="Git" height="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png?20160811101906" width="102" />
+<img alt="Git" height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Matplotlib_logo.svg/540px-Matplotlib_logo.svg.png?20090730120601" width="270" />
 
 ## 🤝 Контакты:
 
