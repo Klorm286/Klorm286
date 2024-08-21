@@ -33,6 +33,7 @@
 
 <p float="left">
   <img alt="Python" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/486px-Python_logo_and_wordmark.svg.png" width="169" />
+  <img alt="Pandas" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934" width="124" />
   <img alt="SQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" width="107" />
   <img alt="Tableau" height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/250px-Tableau_logo.svg.png?20200509180027" width="236" />
   <img alt="NumPy" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" width="110" />
